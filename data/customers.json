@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Ana García",
+    "email": "ana.garcia@example.com",
+    "phone": "+52 999 123 4567",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Carlos López",
+    "email": "carlos.lopez@empresa.mx",
+    "phone": "+52 999 234 5678",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "name": "Lucía Morales",
+    "email": "lucia.morales@mail.com",
+    "phone": "+52 999 345 6789",
+    "status": "inactive"
+  },
+  {
+    "id": 4,
+    "name": "Roberto Gómez",
+    "email": "roberto.gomez@example.com",
+    "phone": "+52 999 456 7890",
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "name": "Mariana Sánchez",
+    "email": "msanchez@corporativo.com",
+    "phone": "+52 999 567 8901",
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "name": "Jorge Hernández",
+    "email": "jorge.hdz@servicios.org",
+    "phone": "+52 999 678 9012",
+    "status": "inactive"
+  },
+  {
+    "id": 7,
+    "name": "Sofía Ramírez",
+    "email": "sofia.ramirez@example.com",
+    "phone": "+52 999 789 0123",
+    "status": "active"
+  },
+  {
+    "id": 8,
+    "name": "Fernando Castillo",
+    "email": "fcastillo@tech.io",
+    "phone": "+52 999 890 1234",
+    "status": "active"
+  },
+  {
+    "id": 9,
+    "name": "Elena Torres",
+    "email": "elena.torres@mail.com",
+    "phone": "+52 999 901 2345",
+    "status": "active"
+  },
+  {
+    "id": 10,
+    "name": "Alejandro Ruiz",
+    "email": "aruiz@consultoria.com",
+    "phone": "+52 999 012 3456",
+    "status": "inactive"
+  },
+  {
+    "id": 11,
+    "name": "Patricia Méndez",
+    "email": "patricia.mendez@example.com",
+    "phone": "+52 999 111 2233",
+    "status": "active"
+  },
+  {
+    "id": 12,
+    "name": "Guillermo Navarro",
+    "email": "gnavarro@innovacion.mx",
+    "phone": "+52 999 444 5566",
+    "status": "active"
+  }
+]
